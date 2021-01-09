@@ -1,0 +1,23 @@
+Cloudformation Templates - EKS VPC: 
+
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2019-02-11/amazon-eks-vpc-sample.yaml 
+
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2019-01-09/amazon-eks-vpc-sample.yaml
+
+
+
+
+Cloudformation Templates - Nodes: 
+
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2019-02-11/amazon-eks-nodegroup.yaml
+
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2019-01-09/amazon-eks-nodegroup.yaml
+
+https://docs.aws.amazon.com/eks/latest/userguide/eks-optimized-ami.html - AMI for Nodes as per region
+
+
+
+Tutorials:
+
+https://medium.com/faun/create-your-first-application-on-aws-eks-kubernetes-cluster-874ee9681293
+https://logz.io/blog/amazon-eks-cluster/
